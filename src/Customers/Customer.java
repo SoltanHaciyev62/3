@@ -1,2 +1,6 @@
-package Customers;public class Customer {
+package Customers;
+
+public class Customer {
+    int id;
+    String city;
 }
